@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Hyperbo
+name: hyperbo
+description: hyperbo's blog
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/hyperbo
 rss: true
 
 plugins:
